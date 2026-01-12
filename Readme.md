@@ -50,7 +50,7 @@
 
 ### 方式一：下载 APK
 
-请前往 [Releases](https://www.google.com/search?q=../../releases) 页面下载最新的 `.apk` 安装包，并通过 U盘 或 ADB 安装到您的 Android TV / 电视盒子上。
+请前往 [Releases](https://github.com/zhongheng666/Themby-Android-TV/releases) 页面下载最新的 `.apk` 安装包，并通过 U盘 或 ADB 安装到您的 Android TV / 电视盒子上，需要注意的是最低仅支持Android 6版本。
 
 ### ~~方式二：自行编译~~ 暂无开放源代码打算
 
